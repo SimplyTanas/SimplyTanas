@@ -3,7 +3,7 @@
 <p><em>Data Science at <a href="https://huit.edu.vn/">HCMC University of Industry and Trade</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Nguyễn Đình Bảo Tấn](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/t%E1%BA%A5n-nguy%E1%BB%85n-%C4%91%C3%ACnh-b%E1%BA%A3o-a929b5323/)](https://www.linkedin.com/in/t%E1%BA%A5n-nguy%E1%BB%85n-%C4%91%C3%ACnh-b%E1%BA%A3o-a929b5323/)
+[![Linkedin: Nguyễn Đình Bảo Tấn](https://img.shields.io/badge/-NguyenDinhBaoTan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/t%E1%BA%A5n-nguy%E1%BB%85n-%C4%91%C3%ACnh-b%E1%BA%A3o-a929b5323/)](https://www.linkedin.com/in/t%E1%BA%A5n-nguy%E1%BB%85n-%C4%91%C3%ACnh-b%E1%BA%A3o-a929b5323/)
 [![GitHub SimplyTanas](https://img.shields.io/github/followers/simplytanas?label=follow&style=social)](https://github.com/SimplyTanas)
 
 
