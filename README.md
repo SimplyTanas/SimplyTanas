@@ -9,18 +9,24 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const tan = {
-  pronouns: "she" | "her",
-  code: [Python, C, C++, C#, Ruby(In progress)],
-  tools: [Docker, SQL, SSIS, SSAS(In progress)],
-  architecture: ["..."],
-  techCommunities: {
-                        coorganizer: "...",
-                        speaker: "...",
-                        mentor: "..."
-                      },
- challenge: "..."
+```python
+Tan = {
+    "name": "Nguyen Dinh Bao Tan",
+    "pronouns": ["he", "him"],
+    #proficiency level on a 5-point scale#
+    "languages": {
+        "Python": 4/5,
+        "C": 5/5,
+        "C++": 4/5,
+        "C#": 4/5,
+        "Ruby, Java, Scala, Julia, JavaScript,...": "In progress"
+    },
+    "tools": {
+        "Docker": 3/5, 
+        "SQL": 5/5, 
+        "SSIS": 4/5,
+        "NoSQL, SSAS,...": "In progress"
+    }
 }
 ```
 
