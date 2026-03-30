@@ -25,7 +25,7 @@ Tan = {
         "Docker": 3/5, 
         "SQL": 5/5, 
         "SSIS": 4/5,
-        "NoSQL, SSAS,...": "In progress"
+        "NoSQL, SSAS, PowerBL,...": "In progress"
     }
 }
 ```
