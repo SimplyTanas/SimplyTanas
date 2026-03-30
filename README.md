@@ -27,6 +27,7 @@ Tan = {
         "SSIS": 4/5,
         "NoSQL, SSAS, PowerBL,...": "In progress"
     }
+    "technologies": "Data warehouse"
 }
 ```
 
